@@ -32,7 +32,7 @@ namespace W07
             Console.ReadKey();
         }
     }
-    // inter face
+   // pt so sánh
     public class ComperableCircle : Circle, IComparable<ComperableCircle>
     {
         public ComperableCircle() { }
